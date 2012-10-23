@@ -1,5 +1,7 @@
 * {margin:0; padding:0;}
 body {font-family: Verdana,Ariel, Sans-Serif; font-size: 20px;}
+ul {list-style: none; }
+li ul {padding: 0 0 0 1em;}
 li a {border:1px solid #9OdFdF; padding: 5px; display: block;
 text-decoration: none;
 background-image: -moz-linear-gradient(top, #FFFFFF 0%, #A0EFEF 100%);}
