@@ -1,7 +1,9 @@
 * {margin:0; padding:0;}
 body {font-family: Verdana,Ariel, Sans-Serif; font-size: 20px;}
-a {border:1px solid #9OdFdF; padding: 5px; display: block;
+li a {border:1px solid #9OdFdF; padding: 5px; display: block;
 text-decoration: none;
 background-image: -moz-linear-gradient(top, #FFFFFF 0%, #A0EFEF 100%);}
-a:hover { background-image: -moz-linear-gradient(top, #ccc 0%, #c0cFcF 100%);}
-a:active { background-image: -moz-linear-gradient(top, #ccc 0%, #c0cFcF 100%);}
+li a:hover { background-image: -moz-linear-gradient(top, #ccc 0%, #c0cFcF 100%);}
+li a:active { background-image: -moz-linear-gradient(top, #ccc 0%, #c0cFcF 100%);}
+footer {font-size: 14px; color: #ccc; margin-top: 5px;}
+footer a {color:#AAF; text-decoration: none; }
